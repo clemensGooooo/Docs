@@ -84,3 +84,4 @@ ssl_certificate /etc/ssl/certs/certs/full.pem;
 ssl_certificate_key /etc/ssl/private/cert-key.pem;
 ssl_prefer_server_ciphers on;
 ```
+Based on <https://www.youtube.com/watch?v=VH4gXcvkmOY>
